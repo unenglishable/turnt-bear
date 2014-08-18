@@ -1,0 +1,13 @@
+{
+  "name": "epoch-developer",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "charlatan": "^0.1.9",
+    "core": "git://github.com/epochtalk/core",
+    "path": "^0.4.9"
+  }
+}
