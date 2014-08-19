@@ -214,4 +214,3 @@ seed.seed = function() {
     }
   );
 };
-seed.seed();
